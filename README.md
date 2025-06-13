@@ -2,5 +2,7 @@
 
 
 run 
-```pip install networkx```
-```bash streaming_matching.sh```
+```
+pip install networkx
+bash streaming_matching.sh
+```
