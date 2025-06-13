@@ -1,3 +1,6 @@
 # Matching-Project
 
-run ```bash streaming_matching.sh```
+
+run 
+```pip install networkx```
+```bash streaming_matching.sh```
